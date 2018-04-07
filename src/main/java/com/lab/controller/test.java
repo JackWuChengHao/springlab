@@ -10,4 +10,5 @@ public class test {
 	public String index() {
 		return "index";
 	}
+	
 }
